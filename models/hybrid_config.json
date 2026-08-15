@@ -1,0 +1,9 @@
+{
+    "content_weight": 0.1,
+    "collaborative_weight": 0.9,
+    "k": 10,
+    "relevance_threshold": 4.0,
+    "precision_at_10": 0.024027,
+    "recall_at_10": 0.029253,
+    "f1_at_10": 0.021134
+}
